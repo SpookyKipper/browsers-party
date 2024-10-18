@@ -2,7 +2,7 @@ name,homepage,code,engine,status,os
 Arc,https://arc.net,N/A,Blink,active,"macos, windows"
 Avant,http://www.avantbrowser.com,N/A,"Trident, Gecko, Webkit",,
 Basilisk,https://www.basilisk-browser.org,https://repo.palemoon.org/Basilisk-Dev/Basilisk,Gecko,,
-Brave,https://brave.com,https://github.com/brave/brave-browser,Blink,,
+Brave,https://brave.com,https://github.com/brave/brave-browser,Blink,active,"macos, windows, linux"
 Browsh,https://www.brow.sh,https://github.com/browsh-org/browsh,Custom,,
 Chrome,https://www.google.com/chrome,N/A,Blink,,
 Chromium,https://www.chromium.org/Home,https://chromium.googlesource.com/chromium/src.git,Blink,,
@@ -10,7 +10,7 @@ Dillo,https://dillo-browser.github.io,https://github.com/dillo-browser/dillo,Cus
 Dooble,https://textbrowser.github.io/dooble,https://github.com/textbrowser/dooble,QtWebEngine,active,
 DuckDuckGo,https://duckduckgo.com,N/A,Blink,active,
 Ecosia,https://www.ecosia.org,N/A,Blink,active,
-Edge,https://www.microsoft.com/en-us/edge/download,N/A,Blink,,
+Edge,https://www.microsoft.com/en-us/edge/,N/A,Blink,active,"macos, windows, linux"
 Falkon,https://www.falkon.org,https://invent.kde.org/network/falkon,QtWebEngine,,
 Ferdium,https://ferdium.org,https://github.com/ferdium/ferdium-app,,,
 Firefox,https://www.mozilla.org/en-US/firefox/new,https://searchfox.org/mozilla-central/source,Gecko,active,"macos, windows, linux"
@@ -22,12 +22,12 @@ Iridium,https://iridiumbrowser.de,https://iridiumbrowser.de/downloads/source,Bli
 K-Meleon,http://kmeleonbrowser.org,http://kmeleonbrowser.org/wiki/DownloadsArchive,"Gecko, Goanna",dormant,
 Konqueror,https://apps.kde.org/konqueror,https://github.com/KDE/konqueror,KDEWebKit,,
 Ladybird,https://ladybird.org,https://github.com/LadybirdBrowser/ladybird,LibWeb,under development,
-Librewolf,https://librewolf.net,https://codeberg.org/librewolf,Gecko,active,
+Librewolf,https://librewolf.net,https://codeberg.org/librewolf,Gecko,active,"macos, windows, linux"
 luakit,https://luakit.github.io,https://github.com/luakit/luakit,WebKit,active,
 Maxthon,https://www.maxthon.com,N/A,Blink,,
 Midori,https://astian.org/midori-browser,https://github.com/midori-browser/core,WebKit,,
 NetSurf,https://www.netsurf-browser.org,https://www.netsurf-browser.org/downloads/source,Custom,,
-Opera,https://www.opera.com,N/A,Blink,active,
+Opera,https://www.opera.com,N/A,Blink,active,"macos, windows, linux"
 Orion,https://kagi.com/orion,N/A,WebKit,under development,
 Otter,https://otter-browser.org,https://github.com/OtterBrowser/otter-browser,QtWebkit-ng,,
 Pale Moon,https://www.palemoon.org,https://www.palemoon.org/sourcecode.shtml,Goanna,,
