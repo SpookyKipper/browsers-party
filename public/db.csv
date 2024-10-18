@@ -46,8 +46,8 @@ surf,https://surf.suckless.org,https://git.suckless.org/surf,https://surf.suckle
 Thorium,https://thorium.rocks,https://github.com/Alex313031/Thorium,Blink,active,
 Tor,https://www.torproject.org,https://gitlab.torproject.org/tpo/applications/tor-browser,Gecko,active,
 Ulaa,https://ulaa.com,N/A,Blink,active,
-Vivaldi,https://vivaldi.com,https://vivaldi.com/source,Blink,active,
+Vivaldi,https://vivaldi.com,https://vivaldi.com/source,Blink,active,"macos, windows, linux"
 Waterfox,https://www.waterfox.net,https://github.com/BrowserWorks/Waterfox,Gecko,,
 Wavebox,https://wavebox.io,,,,
 Yandex,https://yandex.com,N/A,Blink,,
-Zen,https://zen-browser.app,https://github.com/zen-browser/desktop,Gecko,under development,
+Zen,https://zen-browser.app,https://github.com/zen-browser/desktop,Gecko,under development,"macos, windows, linux"
